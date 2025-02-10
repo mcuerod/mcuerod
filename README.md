@@ -24,7 +24,7 @@ Soy rápido aprendiendo nuevas herramientas y lenguajes, y me encanta enfrentarm
 ### 🚀 ¿Qué me define?  
 
 - **Proactividad y creatividad**: Siempre en busca de soluciones innovadoras.  
-- **Versatilidad**: Con habilidades que incluyen conocimientos de **electrónica** y producción musical.  
+- **Versatilidad**: Con habilidades que incluyen conocimientos de **electrónica** y **producción musical**.  
 - **Compromiso con la mejora continua**: La tecnología avanza, y yo con ella.  
 
 ---
