@@ -12,6 +12,11 @@
 
 💪 ¡Listo para enfrentar cualquier desafío y convertir ideas en soluciones efectivas!
 
+---
+
+🌐 **Conecta conmigo en LinkedIn:**  
+[![LinkedIn](www.linkedin.com/in/miguel-ángel-cuevas-rodríguez)
+
 
 <!--
 **mcuerod/mcuerod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
