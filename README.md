@@ -8,7 +8,7 @@
 ### 📚 Sobre mí
 
 - 💡 **Estudiante de último curso de Desarrollo de Aplicaciones Web (DAW)** en el IES Velázquez de Sevilla.  
-- 👨‍💻 Experto en tecnologías como **HTML, CSS, JavaScript, TypeScript, PHP, Java**.  
+- 👨‍💻 Experto en tecnologías como **HTML, CSS, JavaScript, TypeScript, PHP, Java, Docker**.  
 - 🛠️ Experiencia con frameworks modernos como **Angular** y bases de datos como **MySQL** y **Oracle**.  
 - 🌟 Apasionado por la tecnología, con conocimientos en el emocionante campo del **Internet of Things (IoT)**.  
 
