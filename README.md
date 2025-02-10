@@ -15,7 +15,7 @@
 ---
 
 🌐 **Conecta conmigo en LinkedIn:**  
-[![LinkedIn](www.linkedin.com/in/miguel-ángel-cuevas-rodríguez)
+- [LinkedIn](www.linkedin.com/in/miguel-ángel-cuevas-rodríguez)
 
 
 <!--
